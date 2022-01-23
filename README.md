@@ -28,6 +28,7 @@ Saruj Sattayanurak
 * Backend  - NodeJS(Express, Mongoose)
 * Frontend - ReactJS
 * Server   - Heroku(backend), Vercel(frontend)
+* Auth.    - Firebase
 
 ### Schedule
 
