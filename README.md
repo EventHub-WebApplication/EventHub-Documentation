@@ -14,6 +14,8 @@ This project is a part of assignment from SCB10X, Venture Builder team. Basicall
 * User can see all paticipcated parties
 * User can see all created parties
 
+see project user stories click at this link => https://docs.google.com/document/d/1u8lnXAPeSh-jtvxalwbH9SJBMTLgU5nkPoPoqaYoG4M/edit?usp=sharing
+
 ### User interface
 
 <img width="748" alt="ui" src="https://user-images.githubusercontent.com/59832457/150702258-8be1e5cb-1246-40b4-9bdd-a807997e735a.png">
