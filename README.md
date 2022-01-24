@@ -2,6 +2,8 @@
 
 EventHub web application is an application where user can find fascinating events from around the world and be able to paticipate in the event! Moreover, user can create their own event and post it in the main dashboard.
 
+Project-Demo at => https://youtu.be/FX7kULWod1I
+
 ### Project Requirements
 
 This project is a part of assignment from SCB10X, Venture Builder team. Basically, it is a web application which have the following features.
