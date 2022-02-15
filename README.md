@@ -38,7 +38,6 @@ Saruj Sattayanurak
 * 21 January 2022 - Authentication
 * 22 January 2022 - [Frontend](https://github.com/EventHub-WebApplication/EventHub-FrontEnd/projects/1)
 * 23 January 2022 - Styling
-* 24 January 2022 - Documentation and Video presentation
 
 
 
