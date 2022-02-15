@@ -4,7 +4,7 @@ EventHub web application is an application where user can find fascinating event
 
 ### Project Requirements
 
-This project is a part of assignment from SCB10X, Venture Builder team. Basically, it is a web application which have the following features.
+Basically, it is a web application which have the following features.
 
 * Authentication system using Email and Password
 * Register system
